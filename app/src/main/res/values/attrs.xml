@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WheelControl">
+        <attr name="scrubberAngle" format="float"/>
+        <attr name="scrubberDrawable" format="integer"/>
+        <attr name="scrubberColor" format="color"/>
+        <attr name="wheelDrawable" format="integer"/>
+        <attr name="wheelColor" format="color"/>
+        <attr name="wheelRadius" format="float" />
+        <attr name="showAngle" format="boolean" />
+        <attr name="minAngle" format="float" />
+        <attr name="maxAngle" format="float" />
+        <attr name="angleTextSize" format="float"/>
+    </declare-styleable>
+</resources>
